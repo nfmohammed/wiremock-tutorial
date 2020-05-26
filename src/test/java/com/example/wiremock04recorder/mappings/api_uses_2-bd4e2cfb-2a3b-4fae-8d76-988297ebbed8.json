@@ -1,0 +1,31 @@
+{
+  "id" : "bd4e2cfb-2a3b-4fae-8d76-988297ebbed8",
+  "name" : "api_uses_2",
+  "request" : {
+    "url" : "/api/uses/2",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "�8\t\u0000 fl�l�\u0001:f\\\u000F!�$cm�\u001D�o�v�\u001E\u000B\u0003\u001A\u0004Q8�\"�$��f�\u0014�)_�\u0013b���\u0003�\"� 'Fa�>\u0004A�Fml\u0013j\u0001�B�!z\u0003#�\u0005\u0002Ÿ_��+\u0018Հ���\b\u000E��]ա�ΰ��S\u0012\u000F\u0010�;��[��|��~��`�M�\f�(Anp\u0005�g�&xQ�\u0003�*\u0011�q\u0011RY\u0010��U���\r\u0013p�\u001E�R+S1&y\u001C��vSr�\fq\u0011�\u001A�\u001D",
+    "headers" : {
+      "Date" : "Tue, 26 May 2020 05:26:20 GMT",
+      "Content-Type" : "application/json; charset=utf-8",
+      "Set-Cookie" : "__cfduid=d6992bfa8d3e6e5f63e0403e2d4180bd31590470780; expires=Thu, 25-Jun-20 05:26:20 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure",
+      "X-Powered-By" : "Express",
+      "Etag" : "W/\"128-2OIdTk88Wl5IU+miBPIdhOPMcBo\"",
+      "Via" : "1.1 vegur",
+      "Cache-Control" : "max-age=14400",
+      "CF-Cache-Status" : "HIT",
+      "Age" : "763",
+      "Expect-CT" : "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+      "Vary" : "Accept-Encoding",
+      "Server" : "cloudflare",
+      "CF-RAY" : "599514a86bd3f226-ORD",
+      "cf-request-id" : "02f10b3d3c0000f226b92af200000001"
+    }
+  },
+  "uuid" : "bd4e2cfb-2a3b-4fae-8d76-988297ebbed8",
+  "persistent" : true,
+  "insertionIndex" : 2
+}
